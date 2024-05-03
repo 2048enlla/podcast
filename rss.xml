@@ -12,7 +12,7 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 03 May 2024 13:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 13:47:58 +0000</lastBuildDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -26,6 +26,7 @@
     <itunes:type>episodic</itunes:type>
     <item>
       <title>Consultoria de desenvolupament, sí o no?</title>
+      <link>https://2048enlla.cat/podcast/7YCcj9va</link>
       <description>Avui parlem de la consultoria de software. Fem amics!</description>
       <guid isPermaLink="false">1f142e81-527c-4387-8ce6-7f028ea2452f</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1f142e81-527c-4387-8ce6-7f028ea2452f/audio.mp3" length="62154271" type="audio/mpeg"/>
@@ -41,6 +42,7 @@
     </item>
     <item>
       <title>Estem preparant les noves generacions pel futur digital?</title>
+      <link>https://2048enlla.cat/podcast/awGdc8vq</link>
       <description>&lt;p&gt;Parlem d'ensenyament, competències digitals i intentem entendre el què les noves generacions necessitaran en el futur.&lt;/p&gt;</description>
       <guid isPermaLink="false">b91b3858-7e7d-48fb-b29a-8d7ddde98dc5</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b91b3858-7e7d-48fb-b29a-8d7ddde98dc5/audio.mp3" length="46560771" type="audio/mpeg"/>
@@ -56,6 +58,7 @@
     </item>
     <item>
       <title>Ens empassem el hype tecnològic sense filtres?</title>
+      <link>https://2048enlla.cat/podcast/kjHM6psu</link>
       <description>&lt;p&gt;Un parell de setmanes després de vendre-li a tothom un nou hype (Devin) decidim frenar i semblar que toquem de peus a terra.&lt;/p&gt;</description>
       <guid isPermaLink="false">f02104f8-1a74-4ab2-b848-fdcfb3d66ea0</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/f02104f8-1a74-4ab2-b848-fdcfb3d66ea0/audio.mp3" length="51590672" type="audio/mpeg"/>
@@ -71,6 +74,7 @@
     </item>
     <item>
       <title>Es pot combinar ciberseguretat i altruisme?</title>
+      <link>https://2048enlla.cat/podcast/62LzBXmj</link>
       <description>&lt;p&gt;No podíem deixar passar l'oportunitat de parlar de la seguretat en el món del programari lliure després de l'incident de l'xz-utils. Si us ho heu perdut tot, no patiu, us ho expliquem.&lt;/p&gt;</description>
       <guid isPermaLink="false">1683c464-9d03-4c0b-8d70-ce6a6001c261</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1683c464-9d03-4c0b-8d70-ce6a6001c261/audio.mp3" length="60951812" type="audio/mpeg"/>
@@ -86,6 +90,7 @@
     </item>
     <item>
       <title>És Devin l'inici de la fi dels desenvolupadors humans?</title>
+      <link>https://2048enlla.cat/podcast/ShAuATPq</link>
       <description>&lt;p&gt;Nosaltres no ho creiem, però vam pensar que un títol clickbaity era una bona manera de parlar dels assistents d'IA aplicats al desenvolupament.&lt;/p&gt;</description>
       <guid isPermaLink="false">8ac090d7-6f92-4ea5-8699-72ede0c99b2e</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/8ac090d7-6f92-4ea5-8699-72ede0c99b2e/audio.mp3" length="48023535" type="audio/mpeg"/>
@@ -101,6 +106,7 @@
     </item>
     <item>
       <title>SCRUM o TDD?</title>
+      <link>https://2048enlla.cat/podcast/6kQp4Ub3</link>
       <description>&lt;p&gt;Avui parlem de copiar maneres de fer pel fet de copiar.&lt;/p&gt;</description>
       <guid isPermaLink="false">1aa9a85f-789e-475b-8f75-741a8b0a2eca</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1aa9a85f-789e-475b-8f75-741a8b0a2eca/audio.mp3" length="58276840" type="audio/mpeg"/>
@@ -116,6 +122,7 @@
     </item>
     <item>
       <title>Quantes safates d'entrada gestiones a la teva vida?</title>
+      <link>https://2048enlla.cat/podcast/SxLH4WWx</link>
       <description>Tornem al tema de les interrupccions, aquest com fem zoom al problema de les notificacions i de la diversitat d'aplicacions que competeixen per la nostra atenció!</description>
       <guid isPermaLink="false">8c3f5b1c-831d-489a-b244-7617d0e42311</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/8c3f5b1c-831d-489a-b244-7617d0e42311/audio.mp3" length="47197664" type="audio/mpeg"/>
@@ -131,6 +138,7 @@
     </item>
     <item>
       <title>Com és la vida d'un mànager d'enginyeria? (part 3, amb Ignasi Fosch)</title>
+      <link>https://2048enlla.cat/podcast/PjCVeQZo</link>
       <description>&lt;p&gt;Tercera part i última (de moment) a la nostra sèrie on parlem de la vida dels mànagers d'enginyeria.&lt;/p&gt;
 &lt;p&gt;Aquest episodi és la continuació de la conversa amb l'Ignasi Fosch, un experimentat mànager i tecnòleg, qui ens obre els ulls parlant del dia a dia de la vida del mànager i de les sorpreses que aquesta amaga.&lt;/p&gt;
 &lt;p&gt;Hem xalat de valent. Gràcies Ignasi!&lt;/p&gt;</description>
@@ -150,6 +158,7 @@
     </item>
     <item>
       <title>Com és la vida d'un mànager d'enginyeria? (part 2, amb Ignasi Fosch)</title>
+      <link>https://2048enlla.cat/podcast/aWgijMCT</link>
       <description>&lt;p&gt;Segona part de la conversa on desgranem la vida dels mànagers d'enginyeria.&lt;/p&gt;
 &lt;p&gt;Aquest cop, ho fem xerrant amb l'Ignasi Fosch, un experimentat mànager i tecnòleg. Esperem que gaudiu de la conversa!&lt;/p&gt;
 &lt;p&gt;Nosaltres l'hem gaudit tant que ben aviat tindreu disponible una tercera part!&lt;/p&gt;</description>
@@ -169,6 +178,7 @@
     </item>
     <item>
       <title>Com és la vida d'un mànager d'enginyeria? (part 1)</title>
+      <link>https://2048enlla.cat/podcast/Cko2cRTS</link>
       <description>Gestió del caos? Apagafocs? Resultats diferits en el temps? Avui parlem de la vida dels mànagers d'enginyeria i d'aquelles tasques que la fan diferent d'altres rols.
 Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ o ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. Visiteu la nostra web ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</description>
       <guid isPermaLink="false">3c6c8787-32ba-485f-8c6e-bfb5fc70159b</guid>
@@ -186,6 +196,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>És un model de llenguatge públic una prioritat?</title>
+      <link>https://2048enlla.cat/podcast/49i7z2pw</link>
       <description>&lt;p&gt;Sembla que el MWC és un moment típic per anunciar coses. I clarament el carro al què tothom puja aquest any és el de la IA i els LLMs. I el govern espanyol s'hi va pujar al carro anunciant un model de llenguatge públic. Hi creiem en el tema? Creiem que es pot aconseguir? Ho desgranem en el vint-i-quatrè episodi de 2048 enllà!&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">0c0023d9-cc6b-495d-9aaa-b88f09392ebc</guid>
@@ -203,6 +214,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Tens un minut per una pregunta ràpida?</title>
+      <link>https://2048enlla.cat/podcast/Wo4y2eps</link>
       <description>&lt;p&gt;Parlem d'interrupcions! I del clash generacional que existeix en l'ús de diverses eines de comunicació. I d'altres coses!&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">a1d0c13e-14e6-4960-813d-95da3450adbd</guid>
@@ -220,6 +232,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Què va abans, la UX o la DevEx?</title>
+      <link>https://2048enlla.cat/podcast/VVkXoLip</link>
       <description>&lt;p&gt;Experiència d'usuari i experiència de desenvolupament? Dues cares de la mateixa moneda? Dicotomia?&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">9a7d1018-502f-4d23-89ba-d0cbe7e74ea0</guid>
@@ -237,6 +250,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Com ha anat el FOSDEM aquest any?</title>
+      <link>https://2048enlla.cat/podcast/W4J4qSEn</link>
       <description>&lt;p&gt;En aquest episodi en David ens explica la seva experiència visitant una de les conferències de desenvolupament més importants del món, el FOSDEM, a Brussel·les. En David explica què la fa única i com any rere any, aquesta conferència és un termòmetre de la nostra indústria.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">9d991bde-041f-4b61-b537-ff9636a5fd86</guid>
@@ -254,6 +268,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>És possible acomiadar algú de manera respectuosa?</title>
+      <link>https://2048enlla.cat/podcast/cdmBHBZL</link>
       <description>&lt;p&gt;En uns mesos marcats pel gran nombre d'acomiadaments a la nostra indústria, n'hem sentit de tots colors. En parlem en aquest episodi!.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">c29f2ae4-6f9a-4624-bfe6-f9682c53a84e</guid>
@@ -271,6 +286,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>També fas de tècnic d’IT de la teva família?</title>
+      <link>https://2048enlla.cat/podcast/8RXjANRJ</link>
       <description>&lt;p&gt;També us toca arreglar tot allò que funcioni amb electricitat? Avui parlem de la bretxa digital a la societat, entre d'altres coses!&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">240ac93b-1607-44fe-8162-f49770a0cc0e</guid>
@@ -288,6 +304,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Per què hi ha poques aplicacions en català? Manquen recursos o l’interès?</title>
+      <link>https://2048enlla.cat/podcast/9SumzRDJ</link>
       <description>&lt;p&gt;Quines oportunitats perden les empreses que no es prenen seriosament la localització del seu programari? Quins costos té i quins beneficis pot aportar?&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">29cca235-6ef7-499c-8952-596d728c2e19</guid>
@@ -305,6 +322,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>És més fàcil resoldre el cub de Rubik que fer bones revisions de codi?</title>
+      <link>https://2048enlla.cat/podcast/4E5JfwkE</link>
       <description>&lt;p&gt;Revisions de codi: com fer-les útils? On fallem? Aporten el valor que se n'espera?&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">0c6e0d27-7835-4f04-99b0-ecd4606e0c2b</guid>
@@ -322,6 +340,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Aquest capítol podria haver estat un correu?</title>
+      <link>https://2048enlla.cat/podcast/ZgoLSpzb</link>
       <description>&lt;p&gt;Reunions i més reunions? Reunions per decidir quan ens reunim altre cop? En aquest episodi parlem de les reunions i de la seva utilitat!&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">b20f5559-2505-4b25-8b4f-0102fe155619</guid>
@@ -339,6 +358,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Mig Internet depèn de software amb bretxes de seguretat?</title>
+      <link>https://2048enlla.cat/podcast/AzcJHwod</link>
       <description>&lt;p&gt;En aquest episodi parlem d'un dels problemes més comuns que creen les incomptables dependències que té el programari que escrivim: les bretxes de seguretat que romanen fora del nostre control.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">328b7fd5-fddc-494e-b7c4-d381040a9ede</guid>
@@ -356,6 +376,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Per què diuen DevOps quan volen dir Sysadmin?</title>
+      <link>https://2048enlla.cat/podcast/fkZvYbAc</link>
       <description>&lt;p&gt;És DevOps el terme més ambigu del món del programari? Segur que no, però resta ben amunt a la classificació. En aquest episodi en parlem!&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">d427689a-c22f-4a14-8f64-71705ae5b39b</guid>
@@ -373,6 +394,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Taula de ping-pong o assegurança mèdica?</title>
+      <link>https://2048enlla.cat/podcast/QpCeYNEx</link>
       <description>&lt;p&gt;En aquest episodi parlem dels beneficis pels treballadors a les empreses... què amaguen? Són una llaminadura enverinada? Són operacions de màrqueting corporatiu?&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠2048enlla.cat⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">80345b9e-dc3d-468d-b255-acb701644808</guid>
@@ -390,6 +412,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Com va aconseguir l'Apollo 11 arribar a la lluna sense Kubernetes?</title>
+      <link>https://2048enlla.cat/podcast/ZuNRGm3r</link>
       <description>&lt;p&gt;Avui traiem uns grams d'ironia del sarró per parlar de Kubernetes, d'optimitzacions prematures, d'abstraccions i de complexitat en el món del programari.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠X (Twitter)⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠LinkedIn⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠2048enlla.cat⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">b34c74b6-e236-45b5-abda-8e42aaf64452</guid>
@@ -407,6 +430,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>És necessari saber balancejar un arbre binari per centrar un DIV?</title>
+      <link>https://2048enlla.cat/podcast/4K7zE8mf</link>
       <description>&lt;p&gt;És necessari saber balancejar un arbre binari per centrar un &amp;lt;div&amp;gt;?&lt;/p&gt;
 &lt;p&gt;Avui, a 2048 enllà, parlem de les entrevistes de feina al nostre sector!&lt;/p&gt;</description>
       <guid isPermaLink="false">0ced7557-f56e-418e-aaa8-d51706136cd0</guid>
@@ -424,6 +448,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitt
     </item>
     <item>
       <title>Un programador productiu és un programador feliç?</title>
+      <link>https://2048enlla.cat/podcast/jUoULTVP</link>
       <description>Parlàvem fa uns episodis dels paranys en l'ús de les mètriques de desenvolupament de programari. Avui fem "zoom" en una de les mesures més controvertides: "la productivitat dels programadors".
 Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o ⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠. Visiteu la nostra web ⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu d'⁠⁠alta al nostre canal de Telegram⁠⁠.</description>
       <guid isPermaLink="false">e914e122-b52f-472c-8c38-0da2367b3271</guid>
@@ -441,6 +466,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Podries arreglar la web de Renfe amb 180.649.048,50€?</title>
+      <link>https://2048enlla.cat/podcast/H3JkzyKr</link>
       <description>&lt;p&gt;Fa poques setmanes Renfe va adjudicar dos concursos per millorar la seva infrastructura de venda de bitllets per uns 180 milions d'euros.&lt;/p&gt;
 &lt;p&gt;En l'episodi d'avui parlem d'aquesta inversió i intentem analitzar si aquest cost és justificable.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu d'&lt;a href="https://t.me/enlla2048"&gt;⁠alta al nostre canal de Telegram⁠&lt;/a&gt;.&lt;/p&gt;</description>
@@ -460,6 +486,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Mesurem per treballar o treballem per mesurar?</title>
+      <link>https://2048enlla.cat/podcast/fU7GbNjt</link>
       <description>&lt;p&gt;Mesurem per treballar o treballem per mesurar?&lt;/p&gt;
 &lt;p&gt;Aquesta setmana ens prenem un descans i deixem aparcat el món de la Intel·ligència Artificial per parlar d'un dels aspectes centrals en el desenvolupament de productes de software: les dades i les mesures. Parlem de mètriques útils i dels processos que ajuden a validar els nostres esforços com a enginyers i desenvolupadors de productes.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠2048enlla.cat⁠⁠⁠&lt;/a&gt;. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu&lt;a href="https://t.me/enlla2048" rel="noopener noreferer" target="_blank"&gt; d'alta al nostre canal de Telegram&lt;/a&gt;.&lt;/p&gt;</description>
@@ -479,6 +506,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>S'aturarà el món el dia que el ChatGPT estigui caigut?</title>
+      <link>https://2048enlla.cat/podcast/Kv53vfm5</link>
       <description>&lt;p&gt;S'aturarà el món el dia que el ChatGPT estigui caigut?&lt;/p&gt;
 &lt;p&gt;Després d'uns dies on OpenAI ha estat a l'epicentre del món corporatiu i tecnològic publiquem un episodi on intentem entendre com de central s'està convertint el ChatGPT en la nostra manera de treballar. Parlem de pragmatisme i qüestionem on hem de posar els nostres esforços com a professionals.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠X (Twitter)⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠LinkedIn⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠2048enlla.cat⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
@@ -498,6 +526,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Com es converteix una idea en un prototip sense morir en l'intent?</title>
+      <link>https://2048enlla.cat/podcast/iajVtqeV</link>
       <description>&lt;p&gt;Com es converteix una idea en un prototip sense morir en l'intent?&lt;/p&gt;
 &lt;p&gt;En aquest episodi parlem de quines decisions s'han de prendre per tal de minimitzar els costos transformant idees en realitat. Parlem de sobreenginyeria i dels diferents paranys en què caiem quan creem nous productes.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠X (Twitter)⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠LinkedIn⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠2048enlla.cat⁠&lt;/a&gt;.&lt;/p&gt;</description>
@@ -517,6 +546,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Des de quan "superenginyer" es va convertir en sinònim de "no necessito descansar"?</title>
+      <link>https://2048enlla.cat/podcast/aAsZ2o6J</link>
       <description>&lt;p&gt;Des de quan &amp;quot;superenginyer&amp;quot; es va convertir en sinònim de &amp;quot;no necessito descansar&amp;quot;?&lt;/p&gt;
 &lt;p&gt;En aquest episodi ens endinsem en el concepte controvertit i sovint mal entès del 'superenginyer'. Examinem críticament els mites al voltant de l'ètica de treball incessant i la productivitat en la indústria tecnològica, explorant com aquesta mentalitat impacta la salut mental i la dinàmica d'equips. Acompanya'ns en aquest episodi on desglorifiquem el treball excessiu i discutim enfocaments més sostenibles i equilibrats cap a l'èxit professional en tecnologia. Escolteu aquest episodi si sou una persona interessada en la intersecció de la cultura tecnològica, el benestar mental i el futur del treball en la nostra indústria que evoluciona tan ràpidament.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;2048enlla.cat&lt;/a&gt;.&lt;/p&gt;</description>
@@ -536,6 +566,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Els microserveis resolen problemes o els distribueixen?</title>
+      <link>https://2048enlla.cat/podcast/X7b2bQQp</link>
       <description>&lt;p&gt;En aquest episodi, discutim si l'adopció de microserveis com a arquitectura és encertada o una moda tecnològica. Reflexionem sobre la complexitat que aporten, l'impacte en els equips de desenvolupament, i l'adaptabilitat segons el context del projecte. Ponderem els avantatges de mantenir la simplicitat en els inicis i com això pot afavorir la prova de conceptes sense caure en la sobreenginyeria.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">a38b302e-cecd-43ec-b227-0764fe4afc7c</guid>
@@ -553,6 +584,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>S'escriu alguna línia de codi que no sigui deute tècnic?</title>
+      <link>https://2048enlla.cat/podcast/h3tmJ9qo</link>
       <description>&lt;p&gt;&lt;strong&gt;S'escriu alguna línia de codi que no sigui deute tècnic?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;El deute tècnic és un dels assumptes més controvertits del desenvolupament de programari. En aquest episodi parlem del deute tècnic, dels costos de manteniment i de la gestió del cicle de vida dels components de software&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. &lt;/p&gt;</description>
@@ -572,6 +604,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Calia una pandèmia per descobrir una altra forma de treballar?</title>
+      <link>https://2048enlla.cat/podcast/BYYkmgXt</link>
       <description>&lt;p&gt;Calia una pandèmia per descobrir una altra forma de treballar?&lt;/p&gt;
 &lt;p&gt;La pandèmia ha obert noves perspectives i metodologies laborals, qüestionant la norma establerta i obrint la porta a un futur laboral més flexible. O potser no tant?&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla" rel="noopener noreferer" target="_blank"&gt;X (Twitter)&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978" rel="noopener noreferer" target="_blank"&gt;LinkedIn&lt;/a&gt;. &lt;/p&gt;</description>
@@ -591,6 +624,7 @@ Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o �
     </item>
     <item>
       <title>Per què és més fàcil demanar una hamburguesa que no pas cita al CAP?</title>
+      <link>https://2048enlla.cat/podcast/jnSjguGH</link>
       <description>&lt;p&gt;Per què és més fàcil demanar una hamburguesa que cita al CAP?&lt;/p&gt;
 &lt;p&gt;En aquest episodi fem una repassada a l'estat de la nostra administració electrònica i n'intentem extreure conclusions.&lt;/p&gt;
 &lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. &lt;/p&gt;</description>
