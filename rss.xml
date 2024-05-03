@@ -1,0 +1,612 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>2048 Enllà</title>
+    <link>https://2048enlla.cat/</link>
+    <description>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</description>
+    <copyright>Copyright - Oscar García i David Poblador</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>podcast_manager</generator>
+    <image>
+      <url>https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg</url>
+      <title>2048 Enllà</title>
+      <link>https://2048enlla.cat/</link>
+    </image>
+    <language>ca</language>
+    <lastBuildDate>Fri, 03 May 2024 13:33:09 +0000</lastBuildDate>
+    <itunes:author>Oscar García i David Poblador</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:complete>no</itunes:complete>
+    <itunes:owner>
+      <itunes:name>Oscar García i David Poblador</itunes:name>
+      <itunes:email>podcast@2048enlla.cat</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Consultoria de desenvolupament, sí o no?</title>
+      <description>Avui parlem de la consultoria de software. Fem amics!</description>
+      <guid isPermaLink="false">1f142e81-527c-4387-8ce6-7f028ea2452f</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1f142e81-527c-4387-8ce6-7f028ea2452f/audio.mp3" length="62154271" type="audio/mpeg"/>
+      <pubDate>Fri, 03 May 2024 08:08:25 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1f142e81-527c-4387-8ce6-7f028ea2452f/artwork.jpg"/>
+      <itunes:duration>00:42:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Avui parlem de la consultoria de software. Fem amics!</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Estem preparant les noves generacions pel futur digital?</title>
+      <description>&lt;p&gt;Parlem d'ensenyament, competències digitals i intentem entendre el què les noves generacions necessitaran en el futur.&lt;/p&gt;</description>
+      <guid isPermaLink="false">b91b3858-7e7d-48fb-b29a-8d7ddde98dc5</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b91b3858-7e7d-48fb-b29a-8d7ddde98dc5/audio.mp3" length="46560771" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Apr 2024 08:08:25 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b91b3858-7e7d-48fb-b29a-8d7ddde98dc5/artwork.jpg"/>
+      <itunes:duration>00:31:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Parlem d'ensenyament, competències digitals i intentem entendre el què les noves generacions necessitaran en el futur.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Ens empassem el hype tecnològic sense filtres?</title>
+      <description>&lt;p&gt;Un parell de setmanes després de vendre-li a tothom un nou hype (Devin) decidim frenar i semblar que toquem de peus a terra.&lt;/p&gt;</description>
+      <guid isPermaLink="false">f02104f8-1a74-4ab2-b848-fdcfb3d66ea0</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/f02104f8-1a74-4ab2-b848-fdcfb3d66ea0/audio.mp3" length="51590672" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Apr 2024 06:27:32 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/f02104f8-1a74-4ab2-b848-fdcfb3d66ea0/artwork.jpg"/>
+      <itunes:duration>00:35:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Un parell de setmanes després de vendre-li a tothom un nou hype (Devin) decidim frenar i semblar que toquem de peus a terra.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Es pot combinar ciberseguretat i altruisme?</title>
+      <description>&lt;p&gt;No podíem deixar passar l'oportunitat de parlar de la seguretat en el món del programari lliure després de l'incident de l'xz-utils. Si us ho heu perdut tot, no patiu, us ho expliquem.&lt;/p&gt;</description>
+      <guid isPermaLink="false">1683c464-9d03-4c0b-8d70-ce6a6001c261</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1683c464-9d03-4c0b-8d70-ce6a6001c261/audio.mp3" length="60951812" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Apr 2024 06:24:12 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1683c464-9d03-4c0b-8d70-ce6a6001c261/artwork.jpg"/>
+      <itunes:duration>00:41:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;No podíem deixar passar l'oportunitat de parlar de la seguretat en el món del programari lliure després de l'incident de l'xz-utils. Si us ho heu perdut tot, no patiu, us ho expliquem.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>És Devin l'inici de la fi dels desenvolupadors humans?</title>
+      <description>&lt;p&gt;Nosaltres no ho creiem, però vam pensar que un títol clickbaity era una bona manera de parlar dels assistents d'IA aplicats al desenvolupament.&lt;/p&gt;</description>
+      <guid isPermaLink="false">8ac090d7-6f92-4ea5-8699-72ede0c99b2e</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/8ac090d7-6f92-4ea5-8699-72ede0c99b2e/audio.mp3" length="48023535" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Apr 2024 06:12:34 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/8ac090d7-6f92-4ea5-8699-72ede0c99b2e/artwork.jpg"/>
+      <itunes:duration>00:33:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Nosaltres no ho creiem, però vam pensar que un títol clickbaity era una bona manera de parlar dels assistents d'IA aplicats al desenvolupament.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>SCRUM o TDD?</title>
+      <description>&lt;p&gt;Avui parlem de copiar maneres de fer pel fet de copiar.&lt;/p&gt;</description>
+      <guid isPermaLink="false">1aa9a85f-789e-475b-8f75-741a8b0a2eca</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1aa9a85f-789e-475b-8f75-741a8b0a2eca/audio.mp3" length="58276840" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Apr 2024 06:22:55 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/1aa9a85f-789e-475b-8f75-741a8b0a2eca/artwork.jpg"/>
+      <itunes:duration>00:40:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Avui parlem de copiar maneres de fer pel fet de copiar.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Quantes safates d'entrada gestiones a la teva vida?</title>
+      <description>Tornem al tema de les interrupccions, aquest com fem zoom al problema de les notificacions i de la diversitat d'aplicacions que competeixen per la nostra atenció!</description>
+      <guid isPermaLink="false">8c3f5b1c-831d-489a-b244-7617d0e42311</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/8c3f5b1c-831d-489a-b244-7617d0e42311/audio.mp3" length="47197664" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Mar 2024 08:39:33 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/8c3f5b1c-831d-489a-b244-7617d0e42311/artwork.jpg"/>
+      <itunes:duration>00:32:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tornem al tema de les interrupccions, aquest com fem zoom al problema de les notificacions i de la diversitat d'aplicacions que competeixen per la nostra atenció!</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Com és la vida d'un mànager d'enginyeria? (part 3, amb Ignasi Fosch)</title>
+      <description>&lt;p&gt;Tercera part i última (de moment) a la nostra sèrie on parlem de la vida dels mànagers d'enginyeria.&lt;/p&gt;
+&lt;p&gt;Aquest episodi és la continuació de la conversa amb l'Ignasi Fosch, un experimentat mànager i tecnòleg, qui ens obre els ulls parlant del dia a dia de la vida del mànager i de les sorpreses que aquesta amaga.&lt;/p&gt;
+&lt;p&gt;Hem xalat de valent. Gràcies Ignasi!&lt;/p&gt;</description>
+      <guid isPermaLink="false">7a173c24-565e-4d96-abba-f4453c9b1b65</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/7a173c24-565e-4d96-abba-f4453c9b1b65/audio.mp3" length="92041468" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Mar 2024 06:45:01 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/7a173c24-565e-4d96-abba-f4453c9b1b65/artwork.jpg"/>
+      <itunes:duration>01:03:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Tercera part i última (de moment) a la nostra sèrie on parlem de la vida dels mànagers d'enginyeria.&lt;/p&gt;
+&lt;p&gt;Aquest episodi és la continuació de la conversa amb l'Ignasi Fosch, un experimentat mànager i tecnòleg, qui ens obre els ulls parlant del dia a dia de la vida del mànager i de les sorpreses que aquesta amaga.&lt;/p&gt;
+&lt;p&gt;Hem xalat de valent. Gràcies Ignasi!&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Com és la vida d'un mànager d'enginyeria? (part 2, amb Ignasi Fosch)</title>
+      <description>&lt;p&gt;Segona part de la conversa on desgranem la vida dels mànagers d'enginyeria.&lt;/p&gt;
+&lt;p&gt;Aquest cop, ho fem xerrant amb l'Ignasi Fosch, un experimentat mànager i tecnòleg. Esperem que gaudiu de la conversa!&lt;/p&gt;
+&lt;p&gt;Nosaltres l'hem gaudit tant que ben aviat tindreu disponible una tercera part!&lt;/p&gt;</description>
+      <guid isPermaLink="false">b6aed180-fa19-406d-aba6-524ce874e28b</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b6aed180-fa19-406d-aba6-524ce874e28b/audio.mp3" length="67804020" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2024 01:01:32 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b6aed180-fa19-406d-aba6-524ce874e28b/artwork.jpg"/>
+      <itunes:duration>00:46:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Segona part de la conversa on desgranem la vida dels mànagers d'enginyeria.&lt;/p&gt;
+&lt;p&gt;Aquest cop, ho fem xerrant amb l'Ignasi Fosch, un experimentat mànager i tecnòleg. Esperem que gaudiu de la conversa!&lt;/p&gt;
+&lt;p&gt;Nosaltres l'hem gaudit tant que ben aviat tindreu disponible una tercera part!&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Com és la vida d'un mànager d'enginyeria? (part 1)</title>
+      <description>Gestió del caos? Apagafocs? Resultats diferits en el temps? Avui parlem de la vida dels mànagers d'enginyeria i d'aquelles tasques que la fan diferent d'altres rols.
+Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ o ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. Visiteu la nostra web ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</description>
+      <guid isPermaLink="false">3c6c8787-32ba-485f-8c6e-bfb5fc70159b</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/3c6c8787-32ba-485f-8c6e-bfb5fc70159b/audio.mp3" length="55798404" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Mar 2024 08:29:02 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/3c6c8787-32ba-485f-8c6e-bfb5fc70159b/artwork.jpg"/>
+      <itunes:duration>00:38:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Gestió del caos? Apagafocs? Resultats diferits en el temps? Avui parlem de la vida dels mànagers d'enginyeria i d'aquelles tasques que la fan diferent d'altres rols.
+Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ o ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. Visiteu la nostra web ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>És un model de llenguatge públic una prioritat?</title>
+      <description>&lt;p&gt;Sembla que el MWC és un moment típic per anunciar coses. I clarament el carro al què tothom puja aquest any és el de la IA i els LLMs. I el govern espanyol s'hi va pujar al carro anunciant un model de llenguatge públic. Hi creiem en el tema? Creiem que es pot aconseguir? Ho desgranem en el vint-i-quatrè episodi de 2048 enllà!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">0c0023d9-cc6b-495d-9aaa-b88f09392ebc</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/0c0023d9-cc6b-495d-9aaa-b88f09392ebc/audio.mp3" length="45448438" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Mar 2024 06:02:41 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/0c0023d9-cc6b-495d-9aaa-b88f09392ebc/artwork.jpg"/>
+      <itunes:duration>00:31:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Sembla que el MWC és un moment típic per anunciar coses. I clarament el carro al què tothom puja aquest any és el de la IA i els LLMs. I el govern espanyol s'hi va pujar al carro anunciant un model de llenguatge públic. Hi creiem en el tema? Creiem que es pot aconseguir? Ho desgranem en el vint-i-quatrè episodi de 2048 enllà!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Tens un minut per una pregunta ràpida?</title>
+      <description>&lt;p&gt;Parlem d'interrupcions! I del clash generacional que existeix en l'ús de diverses eines de comunicació. I d'altres coses!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">a1d0c13e-14e6-4960-813d-95da3450adbd</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a1d0c13e-14e6-4960-813d-95da3450adbd/audio.mp3" length="52454124" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Feb 2024 07:25:22 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a1d0c13e-14e6-4960-813d-95da3450adbd/artwork.jpg"/>
+      <itunes:duration>00:36:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Parlem d'interrupcions! I del clash generacional que existeix en l'ús de diverses eines de comunicació. I d'altres coses!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Què va abans, la UX o la DevEx?</title>
+      <description>&lt;p&gt;Experiència d'usuari i experiència de desenvolupament? Dues cares de la mateixa moneda? Dicotomia?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">9a7d1018-502f-4d23-89ba-d0cbe7e74ea0</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/9a7d1018-502f-4d23-89ba-d0cbe7e74ea0/audio.mp3" length="33397988" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Feb 2024 06:44:57 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/9a7d1018-502f-4d23-89ba-d0cbe7e74ea0/artwork.jpg"/>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Experiència d'usuari i experiència de desenvolupament? Dues cares de la mateixa moneda? Dicotomia?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Com ha anat el FOSDEM aquest any?</title>
+      <description>&lt;p&gt;En aquest episodi en David ens explica la seva experiència visitant una de les conferències de desenvolupament més importants del món, el FOSDEM, a Brussel·les. En David explica què la fa única i com any rere any, aquesta conferència és un termòmetre de la nostra indústria.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">9d991bde-041f-4b61-b537-ff9636a5fd86</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/9d991bde-041f-4b61-b537-ff9636a5fd86/audio.mp3" length="43109684" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Feb 2024 07:31:12 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/9d991bde-041f-4b61-b537-ff9636a5fd86/artwork.jpg"/>
+      <itunes:duration>00:29:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;En aquest episodi en David ens explica la seva experiència visitant una de les conferències de desenvolupament més importants del món, el FOSDEM, a Brussel·les. En David explica què la fa única i com any rere any, aquesta conferència és un termòmetre de la nostra indústria.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>És possible acomiadar algú de manera respectuosa?</title>
+      <description>&lt;p&gt;En uns mesos marcats pel gran nombre d'acomiadaments a la nostra indústria, n'hem sentit de tots colors. En parlem en aquest episodi!.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">c29f2ae4-6f9a-4624-bfe6-f9682c53a84e</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/c29f2ae4-6f9a-4624-bfe6-f9682c53a84e/audio.mp3" length="40971398" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Feb 2024 08:32:12 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/c29f2ae4-6f9a-4624-bfe6-f9682c53a84e/artwork.jpg"/>
+      <itunes:duration>00:28:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;En uns mesos marcats pel gran nombre d'acomiadaments a la nostra indústria, n'hem sentit de tots colors. En parlem en aquest episodi!.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>També fas de tècnic d’IT de la teva família?</title>
+      <description>&lt;p&gt;També us toca arreglar tot allò que funcioni amb electricitat? Avui parlem de la bretxa digital a la societat, entre d'altres coses!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">240ac93b-1607-44fe-8162-f49770a0cc0e</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/240ac93b-1607-44fe-8162-f49770a0cc0e/audio.mp3" length="54754413" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Feb 2024 06:27:59 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/240ac93b-1607-44fe-8162-f49770a0cc0e/artwork.jpg"/>
+      <itunes:duration>00:37:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;També us toca arreglar tot allò que funcioni amb electricitat? Avui parlem de la bretxa digital a la societat, entre d'altres coses!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Per què hi ha poques aplicacions en català? Manquen recursos o l’interès?</title>
+      <description>&lt;p&gt;Quines oportunitats perden les empreses que no es prenen seriosament la localització del seu programari? Quins costos té i quins beneficis pot aportar?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">29cca235-6ef7-499c-8952-596d728c2e19</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/29cca235-6ef7-499c-8952-596d728c2e19/audio.mp3" length="41817093" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jan 2024 23:54:42 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/29cca235-6ef7-499c-8952-596d728c2e19/artwork.jpg"/>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Quines oportunitats perden les empreses que no es prenen seriosament la localització del seu programari? Quins costos té i quins beneficis pot aportar?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>És més fàcil resoldre el cub de Rubik que fer bones revisions de codi?</title>
+      <description>&lt;p&gt;Revisions de codi: com fer-les útils? On fallem? Aporten el valor que se n'espera?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">0c6e0d27-7835-4f04-99b0-ecd4606e0c2b</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/0c6e0d27-7835-4f04-99b0-ecd4606e0c2b/audio.mp3" length="47963872" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jan 2024 07:23:14 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/0c6e0d27-7835-4f04-99b0-ecd4606e0c2b/artwork.jpg"/>
+      <itunes:duration>00:32:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Revisions de codi: com fer-les útils? On fallem? Aporten el valor que se n'espera?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Aquest capítol podria haver estat un correu?</title>
+      <description>&lt;p&gt;Reunions i més reunions? Reunions per decidir quan ens reunim altre cop? En aquest episodi parlem de les reunions i de la seva utilitat!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">b20f5559-2505-4b25-8b4f-0102fe155619</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b20f5559-2505-4b25-8b4f-0102fe155619/audio.mp3" length="46955537" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jan 2024 07:33:23 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b20f5559-2505-4b25-8b4f-0102fe155619/artwork.jpg"/>
+      <itunes:duration>00:32:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Reunions i més reunions? Reunions per decidir quan ens reunim altre cop? En aquest episodi parlem de les reunions i de la seva utilitat!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Mig Internet depèn de software amb bretxes de seguretat?</title>
+      <description>&lt;p&gt;En aquest episodi parlem d'un dels problemes més comuns que creen les incomptables dependències que té el programari que escrivim: les bretxes de seguretat que romanen fora del nostre control.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">328b7fd5-fddc-494e-b7c4-d381040a9ede</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/328b7fd5-fddc-494e-b7c4-d381040a9ede/audio.mp3" length="42799091" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jan 2024 07:59:02 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/328b7fd5-fddc-494e-b7c4-d381040a9ede/artwork.jpg"/>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;En aquest episodi parlem d'un dels problemes més comuns que creen les incomptables dependències que té el programari que escrivim: les bretxes de seguretat que romanen fora del nostre control.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Per què diuen DevOps quan volen dir Sysadmin?</title>
+      <description>&lt;p&gt;És DevOps el terme més ambigu del món del programari? Segur que no, però resta ben amunt a la classificació. En aquest episodi en parlem!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">d427689a-c22f-4a14-8f64-71705ae5b39b</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/d427689a-c22f-4a14-8f64-71705ae5b39b/audio.mp3" length="32251998" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jan 2024 07:29:07 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/d427689a-c22f-4a14-8f64-71705ae5b39b/artwork.jpg"/>
+      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;És DevOps el terme més ambigu del món del programari? Segur que no, però resta ben amunt a la classificació. En aquest episodi en parlem!&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Taula de ping-pong o assegurança mèdica?</title>
+      <description>&lt;p&gt;En aquest episodi parlem dels beneficis pels treballadors a les empreses... què amaguen? Són una llaminadura enverinada? Són operacions de màrqueting corporatiu?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠2048enlla.cat⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">80345b9e-dc3d-468d-b255-acb701644808</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/80345b9e-dc3d-468d-b255-acb701644808/audio.mp3" length="42723241" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Dec 2023 08:05:32 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/80345b9e-dc3d-468d-b255-acb701644808/artwork.jpg"/>
+      <itunes:duration>00:29:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;En aquest episodi parlem dels beneficis pels treballadors a les empreses... què amaguen? Són una llaminadura enverinada? Són operacions de màrqueting corporatiu?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠2048enlla.cat⁠⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Com va aconseguir l'Apollo 11 arribar a la lluna sense Kubernetes?</title>
+      <description>&lt;p&gt;Avui traiem uns grams d'ironia del sarró per parlar de Kubernetes, d'optimitzacions prematures, d'abstraccions i de complexitat en el món del programari.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠X (Twitter)⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠LinkedIn⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠2048enlla.cat⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">b34c74b6-e236-45b5-abda-8e42aaf64452</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b34c74b6-e236-45b5-abda-8e42aaf64452/audio.mp3" length="42781871" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Dec 2023 06:53:59 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b34c74b6-e236-45b5-abda-8e42aaf64452/artwork.jpg"/>
+      <itunes:duration>00:29:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Avui traiem uns grams d'ironia del sarró per parlar de Kubernetes, d'optimitzacions prematures, d'abstraccions i de complexitat en el món del programari.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠X (Twitter)⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠LinkedIn⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠2048enlla.cat⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>És necessari saber balancejar un arbre binari per centrar un DIV?</title>
+      <description>&lt;p&gt;És necessari saber balancejar un arbre binari per centrar un &amp;lt;div&amp;gt;?&lt;/p&gt;
+&lt;p&gt;Avui, a 2048 enllà, parlem de les entrevistes de feina al nostre sector!&lt;/p&gt;</description>
+      <guid isPermaLink="false">0ced7557-f56e-418e-aaa8-d51706136cd0</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/0ced7557-f56e-418e-aaa8-d51706136cd0/audio.mp3" length="62580980" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Dec 2023 08:19:49 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/0ced7557-f56e-418e-aaa8-d51706136cd0/artwork.jpg"/>
+      <itunes:duration>00:42:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;És necessari saber balancejar un arbre binari per centrar un &amp;lt;div&amp;gt;?&lt;/p&gt;
+&lt;p&gt;Avui, a 2048 enllà, parlem de les entrevistes de feina al nostre sector!&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Un programador productiu és un programador feliç?</title>
+      <description>Parlàvem fa uns episodis dels paranys en l'ús de les mètriques de desenvolupament de programari. Avui fem "zoom" en una de les mesures més controvertides: "la productivitat dels programadors".
+Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o ⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠. Visiteu la nostra web ⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu d'⁠⁠alta al nostre canal de Telegram⁠⁠.</description>
+      <guid isPermaLink="false">e914e122-b52f-472c-8c38-0da2367b3271</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/e914e122-b52f-472c-8c38-0da2367b3271/audio.mp3" length="41280533" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Dec 2023 06:24:46 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/e914e122-b52f-472c-8c38-0da2367b3271/artwork.jpg"/>
+      <itunes:duration>00:28:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Parlàvem fa uns episodis dels paranys en l'ús de les mètriques de desenvolupament de programari. Avui fem "zoom" en una de les mesures més controvertides: "la productivitat dels programadors".
+Seguiu-nos a les xarxes a ⁠⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠⁠ o ⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠. Visiteu la nostra web ⁠⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠⁠. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu d'⁠⁠alta al nostre canal de Telegram⁠⁠.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Podries arreglar la web de Renfe amb 180.649.048,50€?</title>
+      <description>&lt;p&gt;Fa poques setmanes Renfe va adjudicar dos concursos per millorar la seva infrastructura de venda de bitllets per uns 180 milions d'euros.&lt;/p&gt;
+&lt;p&gt;En l'episodi d'avui parlem d'aquesta inversió i intentem analitzar si aquest cost és justificable.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu d'&lt;a href="https://t.me/enlla2048"&gt;⁠alta al nostre canal de Telegram⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">546f429c-525b-4b56-96e0-042686ef97b4</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/546f429c-525b-4b56-96e0-042686ef97b4/audio.mp3" length="33683764" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Dec 2023 14:59:29 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/546f429c-525b-4b56-96e0-042686ef97b4/artwork.jpg"/>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Fa poques setmanes Renfe va adjudicar dos concursos per millorar la seva infrastructura de venda de bitllets per uns 180 milions d'euros.&lt;/p&gt;
+&lt;p&gt;En l'episodi d'avui parlem d'aquesta inversió i intentem analitzar si aquest cost és justificable.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠⁠2048enlla.cat⁠⁠⁠⁠&lt;/a&gt;. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu d'&lt;a href="https://t.me/enlla2048"&gt;⁠alta al nostre canal de Telegram⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Mesurem per treballar o treballem per mesurar?</title>
+      <description>&lt;p&gt;Mesurem per treballar o treballem per mesurar?&lt;/p&gt;
+&lt;p&gt;Aquesta setmana ens prenem un descans i deixem aparcat el món de la Intel·ligència Artificial per parlar d'un dels aspectes centrals en el desenvolupament de productes de software: les dades i les mesures. Parlem de mètriques útils i dels processos que ajuden a validar els nostres esforços com a enginyers i desenvolupadors de productes.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠2048enlla.cat⁠⁠⁠&lt;/a&gt;. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu&lt;a href="https://t.me/enlla2048" rel="noopener noreferer" target="_blank"&gt; d'alta al nostre canal de Telegram&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">d287b6f1-98d0-4aa6-8430-7e49b73f7fbc</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/d287b6f1-98d0-4aa6-8430-7e49b73f7fbc/audio.mp3" length="40454263" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Nov 2023 11:01:32 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/d287b6f1-98d0-4aa6-8430-7e49b73f7fbc/artwork.jpg"/>
+      <itunes:duration>00:27:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Mesurem per treballar o treballem per mesurar?&lt;/p&gt;
+&lt;p&gt;Aquesta setmana ens prenem un descans i deixem aparcat el món de la Intel·ligència Artificial per parlar d'un dels aspectes centrals en el desenvolupament de productes de software: les dades i les mesures. Parlem de mètriques útils i dels processos que ajuden a validar els nostres esforços com a enginyers i desenvolupadors de productes.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠⁠X (Twitter)⁠⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠⁠2048enlla.cat⁠⁠⁠&lt;/a&gt;. Per cert, si voleu rebre notificacions quan publiquem nous episodis us demanem que us doneu&lt;a href="https://t.me/enlla2048" rel="noopener noreferer" target="_blank"&gt; d'alta al nostre canal de Telegram&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>S'aturarà el món el dia que el ChatGPT estigui caigut?</title>
+      <description>&lt;p&gt;S'aturarà el món el dia que el ChatGPT estigui caigut?&lt;/p&gt;
+&lt;p&gt;Després d'uns dies on OpenAI ha estat a l'epicentre del món corporatiu i tecnològic publiquem un episodi on intentem entendre com de central s'està convertint el ChatGPT en la nostra manera de treballar. Parlem de pragmatisme i qüestionem on hem de posar els nostres esforços com a professionals.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠X (Twitter)⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠LinkedIn⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠2048enlla.cat⁠⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">64ae3f23-3d34-4053-8c74-887247c60d26</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/64ae3f23-3d34-4053-8c74-887247c60d26/audio.mp3" length="37003179" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Nov 2023 10:03:27 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/64ae3f23-3d34-4053-8c74-887247c60d26/artwork.jpg"/>
+      <itunes:duration>00:25:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;S'aturarà el món el dia que el ChatGPT estigui caigut?&lt;/p&gt;
+&lt;p&gt;Després d'uns dies on OpenAI ha estat a l'epicentre del món corporatiu i tecnològic publiquem un episodi on intentem entendre com de central s'està convertint el ChatGPT en la nostra manera de treballar. Parlem de pragmatisme i qüestionem on hem de posar els nostres esforços com a professionals.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠⁠X (Twitter)⁠⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠⁠LinkedIn⁠⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠⁠2048enlla.cat⁠⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Com es converteix una idea en un prototip sense morir en l'intent?</title>
+      <description>&lt;p&gt;Com es converteix una idea en un prototip sense morir en l'intent?&lt;/p&gt;
+&lt;p&gt;En aquest episodi parlem de quines decisions s'han de prendre per tal de minimitzar els costos transformant idees en realitat. Parlem de sobreenginyeria i dels diferents paranys en què caiem quan creem nous productes.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠X (Twitter)⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠LinkedIn⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠2048enlla.cat⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">e40bbcb7-cd91-4a57-b902-cda1ced85c00</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/e40bbcb7-cd91-4a57-b902-cda1ced85c00/audio.mp3" length="48689570" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Nov 2023 08:16:49 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/e40bbcb7-cd91-4a57-b902-cda1ced85c00/artwork.jpg"/>
+      <itunes:duration>00:33:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Com es converteix una idea en un prototip sense morir en l'intent?&lt;/p&gt;
+&lt;p&gt;En aquest episodi parlem de quines decisions s'han de prendre per tal de minimitzar els costos transformant idees en realitat. Parlem de sobreenginyeria i dels diferents paranys en què caiem quan creem nous productes.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠⁠X (Twitter)⁠⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠⁠LinkedIn⁠⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;⁠2048enlla.cat⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Des de quan "superenginyer" es va convertir en sinònim de "no necessito descansar"?</title>
+      <description>&lt;p&gt;Des de quan &amp;quot;superenginyer&amp;quot; es va convertir en sinònim de &amp;quot;no necessito descansar&amp;quot;?&lt;/p&gt;
+&lt;p&gt;En aquest episodi ens endinsem en el concepte controvertit i sovint mal entès del 'superenginyer'. Examinem críticament els mites al voltant de l'ètica de treball incessant i la productivitat en la indústria tecnològica, explorant com aquesta mentalitat impacta la salut mental i la dinàmica d'equips. Acompanya'ns en aquest episodi on desglorifiquem el treball excessiu i discutim enfocaments més sostenibles i equilibrats cap a l'èxit professional en tecnologia. Escolteu aquest episodi si sou una persona interessada en la intersecció de la cultura tecnològica, el benestar mental i el futur del treball en la nostra indústria que evoluciona tan ràpidament.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;2048enlla.cat&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">b4bac21d-1ed1-4176-9351-de14878894d1</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b4bac21d-1ed1-4176-9351-de14878894d1/audio.mp3" length="56750798" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Nov 2023 06:55:14 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b4bac21d-1ed1-4176-9351-de14878894d1/artwork.jpg"/>
+      <itunes:duration>00:38:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Des de quan &amp;quot;superenginyer&amp;quot; es va convertir en sinònim de &amp;quot;no necessito descansar&amp;quot;?&lt;/p&gt;
+&lt;p&gt;En aquest episodi ens endinsem en el concepte controvertit i sovint mal entès del 'superenginyer'. Examinem críticament els mites al voltant de l'ètica de treball incessant i la productivitat en la indústria tecnològica, explorant com aquesta mentalitat impacta la salut mental i la dinàmica d'equips. Acompanya'ns en aquest episodi on desglorifiquem el treball excessiu i discutim enfocaments més sostenibles i equilibrats cap a l'èxit professional en tecnologia. Escolteu aquest episodi si sou una persona interessada en la intersecció de la cultura tecnològica, el benestar mental i el futur del treball en la nostra indústria que evoluciona tan ràpidament.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. Visiteu la nostra web &lt;a href="https://2048enlla.cat/"&gt;2048enlla.cat&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Els microserveis resolen problemes o els distribueixen?</title>
+      <description>&lt;p&gt;En aquest episodi, discutim si l'adopció de microserveis com a arquitectura és encertada o una moda tecnològica. Reflexionem sobre la complexitat que aporten, l'impacte en els equips de desenvolupament, i l'adaptabilitat segons el context del projecte. Ponderem els avantatges de mantenir la simplicitat en els inicis i com això pot afavorir la prova de conceptes sense caure en la sobreenginyeria.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">a38b302e-cecd-43ec-b227-0764fe4afc7c</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a38b302e-cecd-43ec-b227-0764fe4afc7c/audio.mp3" length="50154108" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Nov 2023 08:10:50 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a38b302e-cecd-43ec-b227-0764fe4afc7c/artwork.jpg"/>
+      <itunes:duration>00:34:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;En aquest episodi, discutim si l'adopció de microserveis com a arquitectura és encertada o una moda tecnològica. Reflexionem sobre la complexitat que aporten, l'impacte en els equips de desenvolupament, i l'adaptabilitat segons el context del projecte. Ponderem els avantatges de mantenir la simplicitat en els inicis i com això pot afavorir la prova de conceptes sense caure en la sobreenginyeria.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;.&lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>S'escriu alguna línia de codi que no sigui deute tècnic?</title>
+      <description>&lt;p&gt;&lt;strong&gt;S'escriu alguna línia de codi que no sigui deute tècnic?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El deute tècnic és un dels assumptes més controvertits del desenvolupament de programari. En aquest episodi parlem del deute tècnic, dels costos de manteniment i de la gestió del cicle de vida dels components de software&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. &lt;/p&gt;</description>
+      <guid isPermaLink="false">db6279c7-1e7a-4eb9-916b-dc832a39256d</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/db6279c7-1e7a-4eb9-916b-dc832a39256d/audio.mp3" length="49109454" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Oct 2023 09:33:24 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/db6279c7-1e7a-4eb9-916b-dc832a39256d/artwork.jpg"/>
+      <itunes:duration>00:33:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;&lt;strong&gt;S'escriu alguna línia de codi que no sigui deute tècnic?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El deute tècnic és un dels assumptes més controvertits del desenvolupament de programari. En aquest episodi parlem del deute tècnic, dels costos de manteniment i de la gestió del cicle de vida dels components de software&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. &lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Calia una pandèmia per descobrir una altra forma de treballar?</title>
+      <description>&lt;p&gt;Calia una pandèmia per descobrir una altra forma de treballar?&lt;/p&gt;
+&lt;p&gt;La pandèmia ha obert noves perspectives i metodologies laborals, qüestionant la norma establerta i obrint la porta a un futur laboral més flexible. O potser no tant?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla" rel="noopener noreferer" target="_blank"&gt;X (Twitter)&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978" rel="noopener noreferer" target="_blank"&gt;LinkedIn&lt;/a&gt;. &lt;/p&gt;</description>
+      <guid isPermaLink="false">359875ed-24cb-4d45-9ce7-c1b551637450</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/359875ed-24cb-4d45-9ce7-c1b551637450/audio.mp3" length="54534602" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Oct 2023 10:47:01 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/359875ed-24cb-4d45-9ce7-c1b551637450/artwork.jpg"/>
+      <itunes:duration>00:37:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Calia una pandèmia per descobrir una altra forma de treballar?&lt;/p&gt;
+&lt;p&gt;La pandèmia ha obert noves perspectives i metodologies laborals, qüestionant la norma establerta i obrint la porta a un futur laboral més flexible. O potser no tant?&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla" rel="noopener noreferer" target="_blank"&gt;X (Twitter)&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978" rel="noopener noreferer" target="_blank"&gt;LinkedIn&lt;/a&gt;. &lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+    <item>
+      <title>Per què és més fàcil demanar una hamburguesa que no pas cita al CAP?</title>
+      <description>&lt;p&gt;Per què és més fàcil demanar una hamburguesa que cita al CAP?&lt;/p&gt;
+&lt;p&gt;En aquest episodi fem una repassada a l'estat de la nostra administració electrònica i n'intentem extreure conclusions.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. &lt;/p&gt;</description>
+      <guid isPermaLink="false">ead211bb-0a62-4b13-a638-dd19d18b60f2</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/ead211bb-0a62-4b13-a638-dd19d18b60f2/audio.mp3" length="34709071" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Sep 2023 09:20:06 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/ead211bb-0a62-4b13-a638-dd19d18b60f2/artwork.jpg"/>
+      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&lt;p&gt;Per què és més fàcil demanar una hamburguesa que cita al CAP?&lt;/p&gt;
+&lt;p&gt;En aquest episodi fem una repassada a l'estat de la nostra administració electrònica i n'intentem extreure conclusions.&lt;/p&gt;
+&lt;p&gt;Seguiu-nos a les xarxes a &lt;a href="https://twitter.com/2048enlla"&gt;⁠X (Twitter)⁠&lt;/a&gt; o &lt;a href="https://www.linkedin.com/company/98651978"&gt;⁠LinkedIn⁠&lt;/a&gt;. &lt;/p&gt;</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
+  </channel>
+</rss>
