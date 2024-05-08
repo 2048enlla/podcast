@@ -12,7 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 03 May 2024 13:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 22:30:38 +0000</lastBuildDate>
+    <pubDate>Thu, 09 May 2024 00:22:21 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -24,6 +25,19 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Hem perdut la passió per descobrir pàgines web?</title>
+      <link>https://2048enlla.cat/podcast/Y92qQcr6</link>
+      <guid isPermaLink="false">a94e435a-9732-410b-aee7-29f7534523eb</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a94e435a-9732-410b-aee7-29f7534523eb/audio.mp3" length="39092585" type="audio/mpeg"/>
+      <pubDate>Thu, 09 May 2024 00:22:21 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a94e435a-9732-410b-aee7-29f7534523eb/artwork.jpg"/>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Consultoria de desenvolupament, sí o no?</title>
       <link>https://2048enlla.cat/podcast/7YCcj9va</link>
