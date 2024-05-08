@@ -12,7 +12,7 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Wed, 08 May 2024 22:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 22:33:22 +0000</lastBuildDate>
     <pubDate>Thu, 09 May 2024 00:22:21 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
@@ -28,12 +28,15 @@
     <item>
       <title>Hem perdut la passió per descobrir pàgines web?</title>
       <link>https://2048enlla.cat/podcast/Y92qQcr6</link>
+      <description>Tornem a parlar de coses de vells</description>
       <guid isPermaLink="false">a94e435a-9732-410b-aee7-29f7534523eb</guid>
       <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a94e435a-9732-410b-aee7-29f7534523eb/audio.mp3" length="39092585" type="audio/mpeg"/>
       <pubDate>Thu, 09 May 2024 00:22:21 +0000</pubDate>
       <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/a94e435a-9732-410b-aee7-29f7534523eb/artwork.jpg"/>
       <itunes:duration>00:26:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tornem a parlar de coses de vells</itunes:summary>
+      <itunes:season>1</itunes:season>
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Oscar García i David Poblador</dc:creator>
