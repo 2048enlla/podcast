@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Wed, 08 May 2024 22:33:22 +0000</lastBuildDate>
-    <pubDate>Thu, 09 May 2024 00:22:21 +0000</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 05:42:28 +0000</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 07:41:13 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Com hauria de ser un entorn psicològicament segur?</title>
+      <link>https://2048enlla.cat/podcast/Gp9KxPhb</link>
+      <description>Avui parlem dels problemes de no poder-se sentir un mateix als llocs de feina</description>
+      <guid isPermaLink="false">533c2a8f-8d97-46ac-a813-d97eb1aa8228</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/533c2a8f-8d97-46ac-a813-d97eb1aa8228/audio.mp3" length="44766957" type="audio/mpeg"/>
+      <pubDate>Wed, 15 May 2024 07:41:13 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/533c2a8f-8d97-46ac-a813-d97eb1aa8228/artwork.jpg"/>
+      <itunes:duration>00:30:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Avui parlem dels problemes de no poder-se sentir un mateix als llocs de feina</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Hem perdut la passió per descobrir pàgines web?</title>
       <link>https://2048enlla.cat/podcast/Y92qQcr6</link>
