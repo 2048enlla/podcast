@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Wed, 15 May 2024 05:42:28 +0000</lastBuildDate>
-    <pubDate>Wed, 15 May 2024 07:41:13 +0000</pubDate>
+    <lastBuildDate>Tue, 21 May 2024 06:19:15 +0000</lastBuildDate>
+    <pubDate>Tue, 21 May 2024 08:18:58 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Has patit mai la síndrome de l’impostor?</title>
+      <link>https://2048enlla.cat/podcast/f34EsCh8</link>
+      <description>Avui parlem de la síndrome de l’impostor. Aquella sensació de que no et mereixes allò que tens i que ets on no toca.</description>
+      <guid isPermaLink="false">d00f4d75-13e0-4eb0-9dcb-825318732b3b</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/d00f4d75-13e0-4eb0-9dcb-825318732b3b/audio.mp3" length="53455087" type="audio/mpeg"/>
+      <pubDate>Tue, 21 May 2024 08:18:58 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/d00f4d75-13e0-4eb0-9dcb-825318732b3b/artwork.jpg"/>
+      <itunes:duration>00:36:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Avui parlem de la síndrome de l’impostor. Aquella sensació de que no et mereixes allò que tens i que ets on no toca.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Com hauria de ser un entorn psicològicament segur?</title>
       <link>https://2048enlla.cat/podcast/Gp9KxPhb</link>
