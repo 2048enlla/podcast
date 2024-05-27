@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Tue, 21 May 2024 06:19:15 +0000</lastBuildDate>
-    <pubDate>Tue, 21 May 2024 08:18:58 +0000</pubDate>
+    <lastBuildDate>Mon, 27 May 2024 09:41:06 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 11:36:58 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El Núvol ha simplificat o complicat les coses?</title>
+      <link>https://2048enlla.cat/podcast/acCZRHV9</link>
+      <description>Toquem amb més profunditat un dels temes preferits del pòdcast: el núvol. Ens ha fet les coses més fàcils?</description>
+      <guid isPermaLink="false">b739cd86-d4bb-416c-9176-ccc8aa6dde16</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b739cd86-d4bb-416c-9176-ccc8aa6dde16/audio.mp3" length="45785279" type="audio/mpeg"/>
+      <pubDate>Mon, 27 May 2024 11:36:58 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b739cd86-d4bb-416c-9176-ccc8aa6dde16/artwork.jpg"/>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Toquem amb més profunditat un dels temes preferits del pòdcast: el núvol. Ens ha fet les coses més fàcils?</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Has patit mai la síndrome de l’impostor?</title>
       <link>https://2048enlla.cat/podcast/f34EsCh8</link>
