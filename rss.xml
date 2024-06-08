@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Sun, 02 Jun 2024 06:57:06 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Jun 2024 08:56:42 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Jun 2024 06:41:16 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Jun 2024 08:37:18 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Estem preparats per l'automatització completa del lloc de treball?</title>
+      <link>https://2048enlla.cat/podcast/ZEJaPRkP</link>
+      <description>Estem preparats per un món on moltes feines puguin desaparèixer?</description>
+      <guid isPermaLink="false">af724934-94ab-43ed-8161-771fc40cc6d3</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/af724934-94ab-43ed-8161-771fc40cc6d3/audio.mp3" length="61433516" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Jun 2024 08:37:18 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/af724934-94ab-43ed-8161-771fc40cc6d3/artwork.jpg"/>
+      <itunes:duration>00:42:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Estem preparats per un món on moltes feines puguin desaparèixer?</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Què passa quan els nostres dispositius IoT es rebel·len?</title>
       <link>https://2048enlla.cat/podcast/Pi2cR7nr</link>
