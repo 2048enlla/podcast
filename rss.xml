@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Sat, 08 Jun 2024 06:41:16 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Jun 2024 08:37:18 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2024 05:54:11 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2024 07:54:04 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Com afecten els algoritmes de recomanació les nostres decisions?</title>
+      <link>https://2048enlla.cat/podcast/AYrpbQoS</link>
+      <description>Com afecten els algoritmes de recomanació les nostres decisions?</description>
+      <guid isPermaLink="false">30019f34-aff2-4147-809c-09d3b6bb7717</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/30019f34-aff2-4147-809c-09d3b6bb7717/audio.mp3" length="49177852" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Jun 2024 07:54:04 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/30019f34-aff2-4147-809c-09d3b6bb7717/artwork.jpg"/>
+      <itunes:duration>00:33:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Com afecten els algoritmes de recomanació les nostres decisions?</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Estem preparats per l'automatització completa del lloc de treball?</title>
       <link>https://2048enlla.cat/podcast/ZEJaPRkP</link>
