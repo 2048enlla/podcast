@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 20 Jun 2024 08:25:01 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Jun 2024 10:24:51 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jun 2024 10:56:24 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Jun 2024 12:56:13 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Salut mental i “cultura startup” són compatibles?</title>
+      <link>https://2048enlla.cat/podcast/ZhBhPvyV</link>
+      <description>Salut mental i “cultura startup” són compatibles?</description>
+      <guid isPermaLink="false">b218cbcf-7fb6-4dc6-9033-291e15a5201a</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b218cbcf-7fb6-4dc6-9033-291e15a5201a/audio.mp3" length="47053532" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Jun 2024 12:56:13 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/b218cbcf-7fb6-4dc6-9033-291e15a5201a/artwork.jpg"/>
+      <itunes:duration>00:32:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Salut mental i “cultura startup” són compatibles?</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Què en penses de l'obsolescència programada?</title>
       <link>https://2048enlla.cat/podcast/7BaViAj2</link>
