@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 27 Jun 2024 10:56:24 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Jun 2024 12:56:13 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2024 07:27:37 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2024 09:27:21 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Com convèncer els caps que un refactor no és un luxe, sinó una necessitat?</title>
+      <link>https://2048enlla.cat/podcast/LoQfJs5Y</link>
+      <description>Com convèncer els caps que un refactor no és un luxe, sinó una necessitat? El primer de dos episodis dedicats als refactors.</description>
+      <guid isPermaLink="false">69a51370-1ea2-472c-b936-450cf2fce2b4</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/69a51370-1ea2-472c-b936-450cf2fce2b4/audio.mp3" length="43229362" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jul 2024 09:27:21 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/69a51370-1ea2-472c-b936-450cf2fce2b4/artwork.jpg"/>
+      <itunes:duration>00:29:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Com convèncer els caps que un refactor no és un luxe, sinó una necessitat? El primer de dos episodis dedicats als refactors.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Salut mental i “cultura startup” són compatibles?</title>
       <link>https://2048enlla.cat/podcast/ZhBhPvyV</link>
