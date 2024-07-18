@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 11 Jul 2024 06:25:09 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jul 2024 08:24:58 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2024 06:39:48 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2024 08:38:23 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Deploy en divendres, sí o no?</title>
+      <link>https://2048enlla.cat/podcast/Rhb6Gt9j</link>
+      <description>Avuo parlem dels canvis en producció i de com guanyar confiança per poder-los fer qualsevol dia a qualsevol hora.</description>
+      <guid isPermaLink="false">852c6edd-7450-46cf-9455-021d3ffdce92</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/852c6edd-7450-46cf-9455-021d3ffdce92/audio.mp3" length="55800752" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jul 2024 08:38:23 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/852c6edd-7450-46cf-9455-021d3ffdce92/artwork.jpg"/>
+      <itunes:duration>00:38:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Avuo parlem dels canvis en producció i de com guanyar confiança per poder-los fer qualsevol dia a qualsevol hora.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Com convèncer els enginyers que un refactor no és una necessitat, sinó un luxe?</title>
       <link>https://2048enlla.cat/podcast/UrbpGqyi</link>
