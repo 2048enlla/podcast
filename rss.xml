@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 18 Jul 2024 06:39:48 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jul 2024 08:38:23 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Jul 2024 09:42:24 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jul 2024 11:42:11 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Oscar, quin tipus de mànager ets?</title>
+      <link>https://2048enlla.cat/podcast/NbwA8Tkj</link>
+      <description>Avui, l'Oscar ens explica aquells trets que el defineixen com a mànager. Aquesta és la primera part d'un parell d'episodis d'aquest estil.</description>
+      <guid isPermaLink="false">73c15801-6c0a-4565-b750-258dfc5a67dc</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/73c15801-6c0a-4565-b750-258dfc5a67dc/audio.mp3" length="53122639" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jul 2024 11:42:11 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/73c15801-6c0a-4565-b750-258dfc5a67dc/artwork.jpg"/>
+      <itunes:duration>00:36:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Avui, l'Oscar ens explica aquells trets que el defineixen com a mànager. Aquesta és la primera part d'un parell d'episodis d'aquest estil.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Deploy en divendres, sí o no?</title>
       <link>https://2048enlla.cat/podcast/Rhb6Gt9j</link>
