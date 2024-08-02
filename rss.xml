@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Sat, 27 Jul 2024 09:42:24 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jul 2024 11:42:11 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2024 04:34:33 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Aug 2024 06:34:23 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>David, quin tipus de mànager ets?</title>
+      <link>https://2048enlla.cat/podcast/gyNrDh5C</link>
+      <description>Avui, al segon i darrer episodi d'aquesta sèrie, el David ens explica aquells trets que el defineixen com a mànager.</description>
+      <guid isPermaLink="false">db097ff5-3a03-4129-b1c3-3009a13bf30c</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/db097ff5-3a03-4129-b1c3-3009a13bf30c/audio.mp3" length="53241876" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Aug 2024 06:34:23 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/db097ff5-3a03-4129-b1c3-3009a13bf30c/artwork.jpg"/>
+      <itunes:duration>00:36:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Avui, al segon i darrer episodi d'aquesta sèrie, el David ens explica aquells trets que el defineixen com a mànager.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>Oscar, quin tipus de mànager ets?</title>
       <link>https://2048enlla.cat/podcast/NbwA8Tkj</link>
