@@ -12,8 +12,8 @@
       <link>https://2048enlla.cat/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 02 Aug 2024 04:34:33 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Aug 2024 06:34:23 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Aug 2024 10:32:11 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Aug 2024 12:30:23 +0000</pubDate>
     <itunes:author>Oscar García i David Poblador</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/artwork.jpg"/>
@@ -25,6 +25,22 @@
     </itunes:owner>
     <itunes:summary>Un pòdcast de tecnologia en català. Setmanalment, amb Oscar García i David Poblador</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Un mànager de mànagers és un rol diferent?</title>
+      <link>https://2048enlla.cat/podcast/jaHz6Rzg</link>
+      <description>Com vam prometre, creiem que era el moment de parlar de gestió de gestors. I és que pensem que és un rol molt diferent al del mànager típic. I així com qui no vol la cosa, estem a punt d'arribar a l'episodi 50. Pareu atenció!</description>
+      <guid isPermaLink="false">e99f4820-7370-4469-a03c-070692abd35b</guid>
+      <enclosure url="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/e99f4820-7370-4469-a03c-070692abd35b/audio.mp3" length="39099395" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Aug 2024 12:30:23 +0000</pubDate>
+      <itunes:image href="https://blobs.2048enlla.cat/NQdNeJ2ZZB8h/e99f4820-7370-4469-a03c-070692abd35b/artwork.jpg"/>
+      <itunes:duration>00:26:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Com vam prometre, creiem que era el moment de parlar de gestió de gestors. I és que pensem que és un rol molt diferent al del mànager típic. I així com qui no vol la cosa, estem a punt d'arribar a l'episodi 50. Pareu atenció!</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Oscar García i David Poblador</dc:creator>
+    </item>
     <item>
       <title>David, quin tipus de mànager ets?</title>
       <link>https://2048enlla.cat/podcast/gyNrDh5C</link>
